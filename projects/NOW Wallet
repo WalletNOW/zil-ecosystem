@@ -1,0 +1,16 @@
+---
+name: NOW Wallet
+date: 04-20-2023
+description: NOW Wallet is a user-friendly non-custodial wallet supporting 800+ assets on 40+ blockchains, including Zilliqa's ZIL, and featuring built-in exchange service and fiat on-ramp.
+full_description: Seamlessly store, exchange, buy, sell, and stake your favorite digital assets, with support for over 40+ blockchains and thousands of tokens. NOW Wallet supports 40+ blockchains and thousands of tokens, allowing to buy, sell, and exchange over 800+ cryptos with ease using our in-app exchange or your bank account and Visa/MasterCard. Users can store any tokens on 7 networks, including Ethereum (ERC-20), Binance Smart Chain (BSC), and Solana, as well as Ethereum and Solana NFTs. NOW Wallet is non-custodial, meaning private keys are only accessible by you, and your assets remain safe and secure. Connect to DeFi and dApps on multiple networks for a seamless crypto experience with WalletConnect.
+mobile_friendly: y
+smart_contract_addresses: 
+logo: https://content-api.changenow.io/uploads/unnamed_8_54d9592e6b.png
+categories: app, defi, exchange, on_ramp, wallet
+status: live
+twitter: https://twitter.com/NOW_Wallet
+website: https://walletnow.app
+telegram: https://t.me/ChangeNOW_chat
+discord: 
+video: 
+---
